@@ -1,1 +1,4 @@
-
+EXERCISE
+Try building you own dataframes from a list and/or dictionary you create.
+What would happen if you have an item missing from one element. E.g. if "c" in the above example only had three items - True, False, True - rather than four. 
+Test it - does the output match your expectation?
